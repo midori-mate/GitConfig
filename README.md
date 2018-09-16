@@ -1,0 +1,5 @@
+
+GitConfig
+===
+
+My git config.
